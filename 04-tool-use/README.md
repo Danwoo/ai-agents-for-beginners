@@ -324,3 +324,10 @@ Running the app in a secure environment further enhances protection. In enterpri
 ## Next Lesson
 
 [Agentic RAG](../05-agentic-rag/README.md)
+
+
+
+## Memo
+Tool : LLM을 위한 확장 프로그램(스크립트) \~ Function Calling
+- description : tool(function)을 호출하기 위한 llm 참조용 script
+- 

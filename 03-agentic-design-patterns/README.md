@@ -61,6 +61,8 @@ This is how the agent operates over time. These principles inform how we design 
   - Agent adapts to user behavior, accessibility needs, and is freely customizable.
   - Agent is shaped by and evolves through continuous user interaction.
 
+---
+
 ### Agent (Core)
 
 These are the key elements in the core of an agent’s design.
@@ -69,6 +71,9 @@ These are the key elements in the core of an agent’s design.
   - A certain level of Agent uncertainty is expected. Uncertainty is a key element of agent design.
   - Trust and transparency are foundational layers of Agent design.
   - Humans are in control of when the Agent is on/off and Agent status is clearly visible at all times.
+
+---
+
 
 ## The Guidelines to Implement These Principles
 
